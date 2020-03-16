@@ -163,7 +163,7 @@ cout<<"now, you have no corn for the goose"<<endl;
 };
 //Step 3, now that you have taken the fox and return with the goose.
 if((answer == 'b' || answer =='B') && (answer2=='e' || answer2== 'E')){
-cout<<"taken the fox place it there, pick up the goose and return with the goos to pick up the sack of corn. Leave the goose and pick up the sack of corn. "<<endl;
+cout<<"taken the fox place it there, pick up the goose and return with the goose to pick up the sack of corn. Leave the goose and pick up the sack of corn. "<<endl;
 
 cout<<"now, you have the sack of corn & fox on one side and the goose in the other side. just take the goose and you have three items across the river";
 cout<<"SOLVEd! Riddle SOLVE!!"<<endl;
